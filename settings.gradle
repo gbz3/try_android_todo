@@ -1,0 +1,2 @@
+rootProject.name = "try_android_todo"
+include ':app'
